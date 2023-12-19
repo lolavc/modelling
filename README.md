@@ -1,4 +1,4 @@
-## [Regression modelling project](https://github.com/lolavc/modelling/blob/main/Regression4gh_191223.pdf)
+## [Regression modelling project - Report](https://github.com/lolavc/modelling/blob/main/Regression4gh_191223.pdf)
 Analyse and explore Life Expectancy dataset to examine factors that may influence life expectancy across the globe.
 
 **Tasks fulfilled:**
